@@ -1,1 +1,1 @@
-# Supporting files for MedEasy
+# Supporting files for Squ-Easy Band
