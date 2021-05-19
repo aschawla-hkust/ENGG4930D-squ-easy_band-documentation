@@ -1,1 +1,1 @@
-# Design files for MedEasy
+# Design files for Squ-Easy Band
