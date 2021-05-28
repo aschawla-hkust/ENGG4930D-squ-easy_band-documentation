@@ -10,7 +10,7 @@ This project started out fromthe ideas developed in SIGHT camp regarding detacha
 
 This project is structured as follow:
 
-- Report https://github.com/aschawla-hkust/ENGG4930D-squ-easy_band-documentation/blob/master/Squ-easy%20Band%20Report.docx
+- Report https://github.com/aschawla-hkust/ENGG4930D-squ-easy_band-documentation/blob/master/Squ-easy%20Band%20Report.pdf
 - Design files folder
 - Documentation for Contributors folder
 - Supporting files folder
